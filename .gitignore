@@ -4,4 +4,4 @@
 /test/
 *.json
 *.txt
-nb*.xml
+nb*.xmlsudo nano /etc/systemd/system/JMusicBot.service
